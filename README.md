@@ -6,13 +6,13 @@ Soy desarrolladora web, graduada de Laboratoria. Soy una persona que le gusta tr
 Me gusta la tecnología y disfruto ayudando a las personas a alcanzar sus objetivos a través de productos tecnologicos que los acerquen a sus metas.
 
 ### Acerca de mí:
-🔭 Actualmente estoy trabajando en proyectos web para mejorar mis habilidades de desarrollo.
-🌱 Actualmente estoy aprendiendo sobre el manejo de las API´s y las Single Page Aplication.
-👯 Estoy buscando colaborar en proyectos relacionados con el desarrollo web y la innovación tecnológica.
-🤔 Estoy buscando continuamente aprender y crecer en el mundo de la programación y lograr el conocimiento de nuevos lenguajes para el desarrollo de aplicaciones móviles.
-💬 Puedes preguntarme sobre desarrollo web.
-📫 Puedes encontrarme en elicrisostomo25@gmail.com.
-😄 Pronombres: Ella/ella.
+-🔭 Actualmente estoy trabajando en proyectos web para mejorar mis habilidades de desarrollo.
+-🌱 Actualmente estoy aprendiendo sobre el manejo de las API´s y las Single Page Aplication.
+-👯 Estoy buscando colaborar en proyectos relacionados con el desarrollo web y la innovación tecnológica.
+-🤔 Estoy buscando continuamente aprender y crecer en el mundo de la programación y lograr el conocimiento de nuevos lenguajes para el desarrollo de aplicaciones móviles.
+-💬 Puedes preguntarme sobre desarrollo web.
+-📫 Puedes encontrarme en elicrisostomo25@gmail.com.
+-😄 Pronombres: Ella/ella.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] (www.linkedin.com/in/elisabeth-crisostomo-a69190293)
